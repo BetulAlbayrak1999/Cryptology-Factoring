@@ -1,0 +1,16 @@
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\bin\Debug\net5.0\Cryptology-Factoring.exe
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\bin\Debug\net5.0\Cryptology-Factoring.deps.json
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\bin\Debug\net5.0\Cryptology-Factoring.runtimeconfig.json
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\bin\Debug\net5.0\Cryptology-Factoring.runtimeconfig.dev.json
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\bin\Debug\net5.0\Cryptology-Factoring.dll
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\bin\Debug\net5.0\ref\Cryptology-Factoring.dll
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\bin\Debug\net5.0\Cryptology-Factoring.pdb
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.csproj.AssemblyReference.cache
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.AssemblyInfoInputs.cache
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.AssemblyInfo.cs
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.csproj.CoreCompileInputs.cache
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.dll
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\ref\Cryptology-Factoring.dll
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.pdb
+C:\Users\18120212004\Desktop\Cryptology-Factoring\Cryptology-Factoring\obj\Debug\net5.0\Cryptology-Factoring.genruntimeconfig.cache

@@ -1,2 +1,2 @@
 # Cryptology-Factoring
- this homework Cryptology lesson
+ this homework is made for Cryptology lesson
