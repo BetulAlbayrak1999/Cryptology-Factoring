@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\18120212004\\Desktop\\Cryptology-Factoring\\Cryptology-Factoring\\Cryptology-Factoring.csproj",
+      "projectUniqueName": "C:\\Users\\18120212004\\Documents\\GitHub\\Cryptology-Factoring\\Cryptology-Factoring\\Cryptology-Factoring.csproj",
       "projectName": "Cryptology-Factoring",
-      "projectPath": "C:\\Users\\18120212004\\Desktop\\Cryptology-Factoring\\Cryptology-Factoring\\Cryptology-Factoring.csproj",
+      "projectPath": "C:\\Users\\18120212004\\Documents\\GitHub\\Cryptology-Factoring\\Cryptology-Factoring\\Cryptology-Factoring.csproj",
       "packagesPath": "C:\\Users\\18120212004\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\18120212004\\Desktop\\Cryptology-Factoring\\Cryptology-Factoring\\obj\\",
+      "outputPath": "C:\\Users\\18120212004\\Documents\\GitHub\\Cryptology-Factoring\\Cryptology-Factoring\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\18120212004\\AppData\\Roaming\\NuGet\\NuGet.Config",
